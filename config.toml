@@ -1,5 +1,5 @@
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-theme-console"
-publishDir= " docs " 
+publishDir= "docs" 
 baseURL = "https://hadi-el-hajj.github.io/blog"
