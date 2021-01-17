@@ -21,4 +21,5 @@ towards losing your freedom as a citizen, but also being controlled by your gove
   This scenario can be avoided if each person's points balance is private and only they can see it, as well as if the points are attributed to objects or actions throughout a universal consensus, i.e. approval from the majority of the citizens.
 
 ![Citizens Ranking in China](/ranking.jpeg)
+
 ![Application to Mixed Reality Setup](/china_ranking_mr.webp)
