@@ -13,7 +13,9 @@ This said, it is too short to englobe all the possibility of dangers, which incl
   One way to avoid this trajectory can be what is done in the decentralized social network, Twetch, which makes you pay in crypto (BSV) to respond to a person's twetch (which is a special case of a tweet), thus limiting your capabilities as a Troll. You would have to pay from your own money to harass someone.
 
   Below is an example of a twetch profile with a wallet balance and total money earned:
-![image alt text](./twetch_profile.jpeg)
+
+![image alt text](/twetch.jpeg)
+
 - being ranked by your government. And yes, this started in China as you may recall. People with the most points in the community are ranked best while others sink digitally in the rankings and socially in real life, as they are exposed by their government as the worst citizens of all, which cuts all ties they have to society, since no one would ever talk to them anymore. It is a step
 towards losing your freedom as a citizen, but also being controlled by your governing authority since it will most certainly have the choice of what brings more points and what brings none.
   This scenario can be avoided if each person's points balance is private and only they can see it, as well as if the points are attributed to objects or actions throughout a universal consensus, i.e. approval from the majority of the citizens.
