@@ -1,5 +1,5 @@
 ---
-title: "Session 1"
+title: "Hyper-Reality by Keiichi Matsuda"
 date: 2020-12-21T11:09:12+01:00
 draft: false
 ---
@@ -23,3 +23,4 @@ towards losing your freedom as a citizen, but also being controlled by your gove
 ![Citizens Ranking in China](/ranking.jpeg)
 
 ![Application to Mixed Reality Setup](/china_ranking_mr.webp)
+
