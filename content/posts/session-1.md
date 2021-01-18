@@ -14,13 +14,13 @@ This said, it is too short to englobe all the possibility of dangers, which incl
 
   Below is an example of a twetch profile with a wallet balance and total money earned:
 
-![Twetch Profile and Balance](/twetch.jpeg)
+![Twetch Profile and Balance](/blog/twetch.jpeg)
 
 - being ranked by your government. And yes, this started in China as you may recall. People with the most points in the community are ranked best while others sink digitally in the rankings and socially in real life, as they are exposed by their government as the worst citizens of all, which cuts all ties they have to society, since no one would ever talk to them anymore. It is a step
 towards losing your freedom as a citizen, but also being controlled by your governing authority since it will most certainly have the choice of what brings more points and what brings none.
   This scenario can be avoided if each person's points balance is private and only they can see it, as well as if the points are attributed to objects or actions throughout a universal consensus, i.e. approval from the majority of the citizens.
 
-![Citizens Ranking in China](/ranking.jpeg)
+![Citizens Ranking in China](/blog/ranking.jpeg)
 
-![Application to Mixed Reality Setup](/china_ranking_mr.webp)
+![Application to Mixed Reality Setup](/blog/china_ranking_mr.webp)
 

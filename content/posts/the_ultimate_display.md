@@ -9,7 +9,7 @@ draft: false
 This blog post is intended to try and analyze how Sutherland's Ultimate Display fits into the Reality-Virtuality Continuum of Milgram. 
 First, let me import the representation of the RV continuum: 
 
-![RV continuum](/RVcont.jpeg) 
+![RV continuum](/blog/RVcont.jpeg) 
 
 In the light of this refresher, it feels that Sutherland's ultimate display traces the lines between a Real Environment and a Virtual Environment, and thus is surrounding the continuum. 
 
