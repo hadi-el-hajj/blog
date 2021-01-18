@@ -13,5 +13,5 @@ baseURL = "https://hadi-el-hajj.github.io/blog"
   animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
-  name = "posts/"
-  url = "posts/"
+  name = "/posts/"
+  url = "/posts/"
