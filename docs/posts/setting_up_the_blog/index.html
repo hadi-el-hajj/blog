@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>My New Hugo Site/blog/posts/setting_up_the_blog/</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+    <link rel="stylesheet" href="https://hadi-el-hajj.github.io/blog/hugo-theme-console/css/terminal-0.7.1.min.css">
+    <link rel="stylesheet" href="https://hadi-el-hajj.github.io/blog/hugo-theme-console/css/animate-3.7.2.min.css">
+    <link rel="stylesheet" href="https://hadi-el-hajj.github.io/blog/hugo-theme-console/css/console.css">
+    
+      <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+       <meta property="og:title" content="Setting up my Blog" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://hadi-el-hajj.github.io/blog/posts/setting_up_the_blog/" /><meta property="article:published_time" content="2021-01-18T15:32:37+01:00" />
+
+
+
+<meta name="twitter:title" content="Setting up my Blog"/>
+<meta name="twitter:description" content="Installing Hugo ! Installing Hugo was not hard since I was using Linux. This said, I did encounter some difficulties with version updates. I wanted at first to use Introduction, but the theme needed higher versions of HUgo. After figuring out how to upgrade the distribution I had (see images below of the problem as mentioned on Stack Overflow) (a simple sudo apt&hellip; did not work, installing hugo through Ubuntu Software neither) and getting Introduction to build, I had another issue which is cited on the theme&rsquo;s Github page, but I was already a bit off the theme and just wanted to choose a new one at this stage."/>
+
+</head>
+<body class="terminal">
+    <div class="container">
+        <div class="terminal-nav">
+          <header class="terminal-logo">
+            <div class="logo terminal-prompt">
+              
+              
+              <a href="https://hadi-el-hajj.github.io/blog" class="no-style ">My New Hugo Site</a>:~# 
+              <a href='https://hadi-el-hajj.github.io/blogposts'>posts</a>/<a href='https://hadi-el-hajj.github.io/blogposts/setting_up_the_blog'>setting_up_the_blog</a>/</div></header>
+          <nav class="terminal-menu">
+            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
+                
+            </ul>
+          </nav>
+        </div>
+    </div>
+
+    <div class="container animated zoomIn fast">
+        
+<h1>Setting up my Blog</h1>
+
+Jan. 18, 2021
+
+
+<br/><br/>
+<h2 id="installing-hugo-">Installing Hugo !</h2>
+<p>Installing Hugo was not hard since I was using Linux. This said, I did encounter some difficulties with version updates. I wanted at first to use <strong>Introduction</strong>, but the theme needed higher versions of HUgo. After figuring out how to upgrade the distribution I had (see images below of the problem as mentioned on Stack Overflow) (a simple sudo apt&hellip; did not work, installing hugo through Ubuntu Software neither) and getting <em>Introduction</em> to build, I had another issue which is cited on the theme&rsquo;s Github page, but I was already a bit off the theme and just wanted to choose a new one at this stage. Finally, I chose <strong>Console</strong>, which was showcased during the Lab session.</p>
+<p><img src="/blog/Problem.png" alt="HUgo update problem"></p>
+<p>After choosing the Theme, came the time to create a GitHub account and learn to use Git (I knew a little at the time but learned much more throughout my Pages webpage setup).</p>
+<h2 id="deploying">Deploying</h2>
+<p><strong>Setting up Pages</strong> took me a while. In fact, I had to reorganize my blog&rsquo;s directories well and redo the commits, since I had duplicate docs folders at times and the <em>Pages</em> build failed many times because of that. BUt once my docs folder was well set up, it worked.</p>
+<h2 id="adding-images">Adding Images</h2>
+<p>After this, all wemt smooth until I had to add <strong>Images</strong> to my posts. In fact, they would never show up and instead were always replaced by the alternate text. After detailed inspection of what was going on, it became clear to me that since my base URL was <strong><a href="https://hadi-el-hajj.github.io/blog">https://hadi-el-hajj.github.io/blog</a></strong>, my images' path had to be <strong>/blog/image.jpg</strong> instead of <strong>/image.jpeg</strong> only (pictures were stored in the static folder).</p>
+<p>After this was fixed, all went well !</p>
+
+
+
+        <div class="footer">
+    Powered by <a href="https://gohugo.io/">Hugo</a> with
+    <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console Theme</a>. 
+</div>
+
+    </div>
+  </body>
+</html>

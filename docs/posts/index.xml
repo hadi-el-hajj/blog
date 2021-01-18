@@ -6,7 +6,16 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jan 2021 14:12:05 +0100</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jan 2021 15:32:37 +0100</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting up my Blog</title>
+      <link>https://hadi-el-hajj.github.io/blog/posts/setting_up_the_blog/</link>
+      <pubDate>Mon, 18 Jan 2021 15:32:37 +0100</pubDate>
+      
+      <guid>https://hadi-el-hajj.github.io/blog/posts/setting_up_the_blog/</guid>
+      <description>Installing Hugo ! Installing Hugo was not hard since I was using Linux. This said, I did encounter some difficulties with version updates. I wanted at first to use Introduction, but the theme needed higher versions of HUgo. After figuring out how to upgrade the distribution I had (see images below of the problem as mentioned on Stack Overflow) (a simple sudo apt&amp;hellip; did not work, installing hugo through Ubuntu Software neither) and getting Introduction to build, I had another issue which is cited on the theme&amp;rsquo;s Github page, but I was already a bit off the theme and just wanted to choose a new one at this stage.</description>
+    </item>
+    
     <item>
       <title>The_ultimate_display</title>
       <link>https://hadi-el-hajj.github.io/blog/posts/the_ultimate_display/</link>
