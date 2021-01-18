@@ -6,7 +6,18 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Dec 2020 11:09:12 +0100</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jan 2021 14:12:05 +0100</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The_ultimate_display</title>
+      <link>https://hadi-el-hajj.github.io/blog/posts/the_ultimate_display/</link>
+      <pubDate>Mon, 18 Jan 2021 14:12:05 +0100</pubDate>
+      
+      <guid>https://hadi-el-hajj.github.io/blog/posts/the_ultimate_display/</guid>
+      <description>Review of Ivan Sutherland&amp;rsquo;s THE ULTIMATE DISPLAY This blog post is intended to try and analyze how Sutherland&amp;rsquo;s Ultimate Display fits into the Reality-Virtuality Continuum of Milgram. First, let me import the representation of the RV continuum:
+In the light of this refresher, it feels that Sutherland&amp;rsquo;s ultimate display traces the lines between a Real Environment and a Virtual Environment, and thus is surrounding the continuum.
+In fact, Sutherland talks extensively about the relashionship between virtual environments and real environments, and the fact that virtual environments can make us apprehend more and more what can and cannot happen in the real world.</description>
+    </item>
+    
     <item>
       <title>Hyper-Reality by Keiichi Matsuda</title>
       <link>https://hadi-el-hajj.github.io/blog/posts/session-1/</link>

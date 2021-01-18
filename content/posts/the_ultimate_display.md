@@ -1,7 +1,7 @@
 ---
 title: "The_ultimate_display"
 date: 2021-01-18T14:12:05+01:00
-draft: true
+draft: false
 ---
 
 # Review of Ivan Sutherland's THE ULTIMATE DISPLAY
