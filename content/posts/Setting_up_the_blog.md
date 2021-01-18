@@ -20,6 +20,8 @@ After choosing the Theme, came the time to create a GitHub account and learn to 
 
 After this, all wemt smooth until I had to add **Images** to my posts. In fact, they would never show up and instead were always replaced by the alternate text. After detailed inspection of what was going on, it became clear to me that since my base URL was **https://hadi-el-hajj.github.io/blog**, my images' path had to be **/blog/image.jpg** instead of **/image.jpeg** only (pictures were stored in the static folder). 
 
+**ADD A PART ON TOP RIGHT NAVIGATION BUTTONS AND PROBLEMS ENCOUNTERED**
+
 After this was fixed, all went well ! 
 
 
