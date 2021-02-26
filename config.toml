@@ -4,6 +4,13 @@ theme = "hugo-theme-console"
 publishDir= "docs" 
 baseURL = "https://hadi-el-hajj.github.io/blog"
 
+# Allow raw html to be rendered
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
@@ -23,3 +30,5 @@ baseURL = "https://hadi-el-hajj.github.io/blog"
   [[params.navlinks]]
   name = "about/"
   url = "about/"
+
+
