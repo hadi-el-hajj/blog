@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Superman Locomotion Technique"
 date: 2021-03-04T10:43:16+01:00
-draft: true
+draft: false
 ---
 
 As you have seen in my previous blog post, **VR Locomotion Pitch**, I have chosen the Superman Locomotion technique as the technique I will be implementing and evaluating. 
