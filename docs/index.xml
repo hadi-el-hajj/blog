@@ -6,7 +6,38 @@
     <description>Recent content on Hadi&#39;s Cool Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Feb 2021 11:09:23 +0100</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 01:03:10 +0100</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unity Roll a Ball Implementation</title>
+      <link>https://hadi-el-hajj.github.io/blog/posts/unity_roll_a_ball_implementation/</link>
+      <pubDate>Sat, 06 Mar 2021 01:03:10 +0100</pubDate>
+      
+      <guid>https://hadi-el-hajj.github.io/blog/posts/unity_roll_a_ball_implementation/</guid>
+      <description>This post describes briefly how I implemented Roll a Ball in Unity, what difficulties I faced as a beginner and how I overcame them. Additionally in the end you can find some captures I took of the Unity screen and the game screen.
+What is Rall a Ball ? Roll a Ball is a minigame where the player controls a small ball and has to roll it to collect the most collectibles possible (which can take any form possible), hence the name.</description>
+    </item>
+    
+    <item>
+      <title>Locomotion Technique Pitch</title>
+      <link>https://hadi-el-hajj.github.io/blog/posts/locomotion_technique_pitch/</link>
+      <pubDate>Sat, 06 Mar 2021 00:15:18 +0100</pubDate>
+      
+      <guid>https://hadi-el-hajj.github.io/blog/posts/locomotion_technique_pitch/</guid>
+      <description>In this post, I will walk you through my pitch slide deck. The deck was intended to give insight on the locomotion technique I had chosen to implement, as well as why I had chosen this method in particular and the goal of said method.
+SLIDE DECK START SLIDE DECK END </description>
+    </item>
+    
+    <item>
+      <title>Final Presentation of my locomotion technique</title>
+      <link>https://hadi-el-hajj.github.io/blog/posts/final_presentation/</link>
+      <pubDate>Fri, 05 Mar 2021 23:44:29 +0100</pubDate>
+      
+      <guid>https://hadi-el-hajj.github.io/blog/posts/final_presentation/</guid>
+      <description>This post is dedicated to showcasing my final presentation and what it contained (slide deck mainly). My presentation tried to cover the following three topics:
+The concept : Focusing on the idea of the interaction - For more info please refer to the Locomotion Technique Pitch post I made
+Implementation : Explaining the logic behind my implementation and challenges that I had during the implementation and how I solved them - For more info please refer to the Locomotion Technique Implementation post I made</description>
+    </item>
+    
     <item>
       <title>Setting up Unity</title>
       <link>https://hadi-el-hajj.github.io/blog/posts/setting_up_unity/</link>
@@ -27,7 +58,7 @@ REMARK : I love using Linux, but unfortunately Unity is not fully supported ther
     </item>
     
     <item>
-      <title>The_ultimate_display</title>
+      <title>The Ultimate Display by Ivan E. Sutherland</title>
       <link>https://hadi-el-hajj.github.io/blog/posts/the_ultimate_display/</link>
       <pubDate>Mon, 18 Jan 2021 14:12:05 +0100</pubDate>
       
