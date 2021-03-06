@@ -14,7 +14,7 @@ After choosing the Theme, came the time to create a GitHub account and learn to 
 
 ## Deploying 
 
-**Setting up Pages** took me a while. In fact, I had to reorganize my blog's directories well and redo the commits, since I had duplicate docs folders at times and the *Pages* build failed many times because of that. (The GitHub Pages builder needs to fetch your page's data through a ell defined **docs** directory, so having duplicates was not great). But once my docs folder was well set up, it worked. 
+**Setting up Pages** took me a while. In fact, I had to reorganize my blog's directories well and redo the commits, since I had duplicate docs folders at times and the *Pages* build failed many times because of that. (The GitHub Pages builder needs to fetch your page's data through a well defined **docs** directory, so having duplicates was not great). But once my docs folder was well set up, it worked. 
 
 ## Adding Images
 

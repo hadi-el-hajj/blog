@@ -22,7 +22,7 @@ Following through with the tutorials in these references, it was fairly easy to 
 
 ## Difficulties 
 All steps were easy until when I had to duplicate the collectibles. It was not hard creating the collectibles, but rather 
-moving them around the scene to place them right (my choice was to place them in a circle). There was a little catch. I had to change the Toggle Tool - Gizmo - Handle Rotation to Global (from local), so the
+moving them around the scene to place them right (my choice was to place them in a circle). There was a little catch. I had to change the Toggle Tool - Gizmo - to Global (from local), so the
 object moves as I wish (parallel to the ground) when looking at it through the Y-Axis. I found this catch through Unity's 
 tutorial videos on youtube, specifically: https://www.youtube.com/watch?v=HlDGSStxuHI
 
@@ -31,7 +31,7 @@ No problems afterwards for scene reproduction.
 Then came the time to build, run and test the game. 
 The game built fine but I observed no movement when keys were pressed, as if the key press events were not taken into account.
 To resolve the problem, I had to recreate a new input actions file after writing the scripts, so the play button would appear on its icon (which was not apparent before for one reason or another) (see figure below). 
-<img src="/blog/inputAction.png" alt="Input Action File" height="100" width="20" />
+<img src="/blog/inputAction.png" alt="Input Action File" />
 
 All worked fine after this last step and I was able to run and play the game ! 
 

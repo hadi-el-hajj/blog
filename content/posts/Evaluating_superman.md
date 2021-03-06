@@ -36,10 +36,10 @@ The figures below depict how my technique compares to that of the other students
 
 ## Open Comments 
 Some open feedback I received from my participants was: \
--They wished they could have a longer trajectory so they can get to experience the technique on a more lenfgthy duration of time. \
+-They wished they could have a longer trajectory so they can get to experience the technique on a more lengthy duration of time. \
 -They said they were having less and less fun because of the repetition, and that some change would be nice. \
 -They said that overall the game was very fun, but they would have added some special effect for boost and superpowers. \
--They wished they were able to do multiple laps, with coins resetiing each time you cross the finish line so they can collect more and more. \
+-They wished they were able to do multiple laps, with coins resetiing each time they cross the finish line so they can collect more and more. \
 -They wished they could see hands on the screen and not controllers. 
 
 These are definitely paths that are very compelling and interesting to go through ! 

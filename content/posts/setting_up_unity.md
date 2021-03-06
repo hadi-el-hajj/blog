@@ -9,7 +9,7 @@ Setting Unity was not very hard. Nonetheless, it is great to have a simple guide
 <span style="color:red"> REMARK : I love using Linux, but unfortunately Unity is not fully supported there yet. So if you are indeed using the Linux OS, I would recommend you use windows or mac instead. Nonetheless, keep checking the unity website for updates, the launch of the Linux supported version should be released in 2021 ! </span>
 
 ## Downloading Unity
-THe way I did it was fairly simple:
+The way I did it was fairly simple:
 
 - Go to the **Unity download page** on any browser (cf image below) : 
 

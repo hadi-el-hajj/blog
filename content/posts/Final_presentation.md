@@ -8,7 +8,7 @@ This post is dedicated to showcasing my final presentation and what it contained
 My presentation tried to cover the following three topics: \
 **The concept :** Focusing on the idea of the interaction - For more info please refer to the **Locomotion Technique Pitch** post I made \
 **Implementation :** Explaining the logic behind my implementation and challenges that I had during the implementation and how I solved them - For more info please refer to the **Locomotion Technique Implementation** post I made \
-**Evaluation** How did my participants perform in terms of the metrics I had. What did I learn in the user evaluation ? - For more info please refer to the **Evaluating the Superman Locomotion Technique** post I made \
+**Evaluation** How did my participants perform in terms of the metrics I had. What did I learn in the user evaluation ? - For more info please refer to the **Evaluating the Superman Locomotion Technique** post I made 
 
 ## START OF SLIDE DECK
 ![Slide 1](/blog/slides/Slide1.png)

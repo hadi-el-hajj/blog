@@ -6,7 +6,27 @@
     <description>Recent content in Posts on Hadi&#39;s Cool Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Mar 2021 01:03:10 +0100</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 16:32:46 +0100</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thanks for Reading !</title>
+      <link>https://hadi-el-hajj.github.io/blog/posts/thanks_for_reading/</link>
+      <pubDate>Sat, 06 Mar 2021 16:32:46 +0100</pubDate>
+      
+      <guid>https://hadi-el-hajj.github.io/blog/posts/thanks_for_reading/</guid>
+      <description>Thank you very much for reading my blog ! </description>
+    </item>
+    
+    <item>
+      <title>Locomotion Technique Implementation</title>
+      <link>https://hadi-el-hajj.github.io/blog/posts/locomotion_technique_implementation/</link>
+      <pubDate>Sat, 06 Mar 2021 13:29:37 +0100</pubDate>
+      
+      <guid>https://hadi-el-hajj.github.io/blog/posts/locomotion_technique_implementation/</guid>
+      <description>This post will mainly cover how I went from my intial idea pitch (read more in my Locomotion Technique Pitch post) to the implementation of the technique.
+As you may know, scripts are implemented in C# in Unity. The post will then contain snippets of C# code followed by an explanation of why I made the choices I made regarding the method of implementation.
+The full code is available on: https://github.</description>
+    </item>
+    
     <item>
       <title>Unity Roll a Ball Implementation</title>
       <link>https://hadi-el-hajj.github.io/blog/posts/unity_roll_a_ball_implementation/</link>
@@ -70,10 +90,10 @@ In fact, Sutherland talks extensively about the relashionship between virtual en
     
     <item>
       <title>Hyper-Reality by Keiichi Matsuda</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/session-1/</link>
+      <link>https://hadi-el-hajj.github.io/blog/posts/hyper_reality/</link>
       <pubDate>Mon, 21 Dec 2020 11:09:12 +0100</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/session-1/</guid>
+      <guid>https://hadi-el-hajj.github.io/blog/posts/hyper_reality/</guid>
       <description>Review of the HYper-Reality video ! Hyper reality presents multiple scenarios where the user is subjected to potential dangers, from which we can cite both being hacked and being bombarbed by waves and waves of commercials. This said, it is too short to englobe all the possibility of dangers, which include:
   being trolled on the internet. Imagine posting a social media post and receiving such criticism that you become an internet meme.</description>
     </item>
