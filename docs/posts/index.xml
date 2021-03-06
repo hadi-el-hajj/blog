@@ -59,6 +59,18 @@ Implementation : Explaining the logic behind my implementation and challenges th
     </item>
     
     <item>
+      <title>Evaluating the Superman Locomotion Technique</title>
+      <link>https://hadi-el-hajj.github.io/blog/posts/evaluating_superman/</link>
+      <pubDate>Thu, 04 Mar 2021 10:43:16 +0100</pubDate>
+      
+      <guid>https://hadi-el-hajj.github.io/blog/posts/evaluating_superman/</guid>
+      <description>As you have seen in my previous blog post, VR Locomotion Pitch, I have chosen the Superman Locomotion technique as the technique I will be implementing and evaluating.
+For the implementation part, check my VR Locomotion Implementation blog.
+The evaluation process always starts by deciding which variables we are going to assess and focus on to determine wether our technique is good or not.
+The variables I went by were the following:</description>
+    </item>
+    
+    <item>
       <title>Setting up Unity</title>
       <link>https://hadi-el-hajj.github.io/blog/posts/setting_up_unity/</link>
       <pubDate>Sat, 20 Feb 2021 11:09:23 +0100</pubDate>
