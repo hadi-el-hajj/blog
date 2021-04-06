@@ -1,7 +1,7 @@
 ---
 title: "Rocket Launch Animation"
 date: 2021-04-06T15:51:48+02:00
-draft: true
+draft: false
 ---
 
 ## Overview: 

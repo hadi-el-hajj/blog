@@ -6,7 +6,17 @@
     <description>Recent content on Hadi&#39;s Cool Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Mar 2021 16:32:46 +0100</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Apr 2021 15:51:48 +0200</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rocket Launch Animation</title>
+      <link>https://hadi-el-hajj.github.io/blog/posts/rocket_launch_animation/</link>
+      <pubDate>Tue, 06 Apr 2021 15:51:48 +0200</pubDate>
+      
+      <guid>https://hadi-el-hajj.github.io/blog/posts/rocket_launch_animation/</guid>
+      <description>Overview: In one of my courses at Ecole Polytechnique, I was asked to work on a computer animation for end of the class grading. I chose to work on a simplistic Rocket Launch Animation, and this post intends to show some results, as well as lead you to the project&amp;rsquo;s source files and code.
+Notice before starting: The project relied heavily on a library called VCL for Visual Component Library, which was crafted by our then professor Dr.</description>
+    </item>
+    
     <item>
       <title>Thanks for Reading !</title>
       <link>https://hadi-el-hajj.github.io/blog/posts/thanks_for_reading/</link>
