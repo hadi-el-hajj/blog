@@ -6,7 +6,17 @@
     <description>Recent content on Hadi&#39;s Cool Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jun 2021 22:38:08 +0200</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jun 2021 23:06:40 +0200</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homie</title>
+      <link>https://hadi-el-hajj.github.io/blog/posts/homie/</link>
+      <pubDate>Tue, 08 Jun 2021 23:06:40 +0200</pubDate>
+      
+      <guid>https://hadi-el-hajj.github.io/blog/posts/homie/</guid>
+      <description>Introduction Homie is an angular application I am working on. It helps you keep track of all your home chores and is your best friend around the house !
+It is simple, the list of tasks you have to do is available on the website, per machine, and once a task is done, it is marked as completed until it is time to do it again, say, in two weeks !</description>
+    </item>
+    
     <item>
       <title>Real time fiber level cloth rendering</title>
       <link>https://hadi-el-hajj.github.io/blog/posts/real_time_fiber_level_cloth_rendering/</link>
