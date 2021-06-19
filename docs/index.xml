@@ -14,11 +14,11 @@
       
       <guid>https://hadi-el-hajj.github.io/blog/posts/learning_rxjs/</guid>
       <description>I lately got into learning reactive programming, especailly RxJS, and in this post, I will be listing resources I found very insightful for beginners.
-List of links FIrst off, you can start by reading the very good primer which is avaiable on Learn RxJS (). Follow this link:
+List of links First off, you can start by reading the very good primer which is avaiable on Learn RxJS. Follow this link:
 RxJs Primer
 I would then recommend you read The introduction to Reactive Programming you&amp;rsquo;ve been missing:
 Intro to reactive programming
-Once you&amp;rsquo;ve got a glimpse of how you can use observables and how operatores work, you can use either of the two visualizing tools, Rx Marbles or Rx Visualizer to deepen yout understanding of some of the operators you have just seen, or to check others !</description>
+Once you&amp;rsquo;ve got a glimpse of how you can use observables and how operators work, you can use either of the two visualizing tools, Rx Marbles or Rx Visualizer to deepen your understanding of some of the operators you have just seen, or to check others !</description>
     </item>
     
     <item>
