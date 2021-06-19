@@ -56,9 +56,9 @@ For now, it does not look like much ;)
 
 # Future work and progress
 
-In the following weeks, I will be working on this application so it reaches the best version I can to offer you. 
+In the following weeks, I will be working on this application so it reaches the best version I have to offer you. 
 
-All future progress and features will be posted on muy blog, so stay tuned for future fixes and releases ! 
+All future progress and features will be posted on my blog, so stay tuned for future fixes and releases ! 
 
 # Link to the git repository 
 
