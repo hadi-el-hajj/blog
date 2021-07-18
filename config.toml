@@ -20,15 +20,15 @@ baseURL = "https://hadi-el-hajj.github.io/blog"
   animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
-  name = "posts/"
-  url = "posts/"
+  name = "Posts"
+  url = "./posts/"
 
   [[params.navlinks]]
-  name = "photos/"
-  url = "photos/"
+  name = "Photos"
+  url = "./photos/"
 
   [[params.navlinks]]
-  name = "about/"
-  url = "about/"
+  name = "Me"
+  url = "./about/"
 
 
