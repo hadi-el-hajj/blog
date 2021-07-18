@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hadi&#39;s Cool Blog</title>
+    <title>Posts on Hadi El Hajj</title>
     <link>https://hadi-el-hajj.github.io/blog/posts/</link>
-    <description>Recent content in Posts on Hadi&#39;s Cool Blog</description>
+    <description>Recent content in Posts on Hadi El Hajj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Jun 2021 23:21:40 +0200</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />

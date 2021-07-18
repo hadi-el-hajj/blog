@@ -3,30 +3,21 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About"
 +++
 
-A minimal, responsive and light theme for Hugo inspired by Linux console. 
 
-![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true)
+Hey there ! My name is Hadi and I love engineering, building impactful projects, and solving problems I see around me. 
 
-## Installation
+I love computer science, physics, math, and I would do everything to get my hands on a meaningful project that gets near one of these subjects. 
 
-```
-$ mkdir themes
-$ cd themes
-$ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console
-```
-    
-See the [Hugo documentation](https://gohugo.io/themes/installing/) for more information.
+I also love companies with noble goals, with impactful missions and great leaders. After all, companies are created to solve problems, should it be a demand problem, or a more complex one like colonizing space or saving the earth.
 
-## Configuration
+I firmly believe that engineers are magicians, for they can use their capabilities to literally change millions of people's lives, and get us as a specie, closer to the truth. 
 
-Set theme parameter in your config file:
+Via this blog, I will try and give you a glimpse of the many learnings and projects I take part in throughout my lifelong journey of becoming a better engineer. I may discuss a lot of different subjects at times, depending on my curiosity and my appetite for subjects at the moment of writing. 
 
-```
-theme = "hugo-theme-console"
-```
+I am open to meaningful discussions, questions or any request you may have. 
 
-## License
+Do not hesitate to shoot me an email at **hadi.el-hajj@polytechnque.edu** for any enquiry, I guarantee I will respond !
 
-Copyright © 2020 [Marcin Mierzejewski](https://mrmierzejewski.com/)
+Also, do not hesitate to check [my github](https://github.com/hadi-el-hajj/), for I frequently update it with my most recent projects !
 
-The theme is released under the MIT License. Check the [original theme license](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md) for additional licensing information.
+Hope you like what I do ! Take care ! 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hadi&#39;s Cool Blog</title>
+    <title>Hadi El Hajj</title>
     <link>https://hadi-el-hajj.github.io/blog/</link>
-    <description>Recent content on Hadi&#39;s Cool Blog</description>
+    <description>Recent content on Hadi El Hajj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Jun 2021 23:21:40 +0200</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -164,11 +164,9 @@ Cheers, Hadi</description>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>https://hadi-el-hajj.github.io/blog/about/</guid>
-      <description>A minimal, responsive and light theme for Hugo inspired by Linux console.
-Installation $ mkdir themes $ cd themes $ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console See the Hugo documentation for more information.
-Configuration Set theme parameter in your config file:
-theme = &amp;quot;hugo-theme-console&amp;quot; License Copyright © 2020 Marcin Mierzejewski
-The theme is released under the MIT License. Check the original theme license for additional licensing information.</description>
+      <description>Hey there ! My name is Hadi and I love engineering, building impactful projects, and solving problems I see around me.
+I love computer science, physics, math, and I would do everything to get my hands on a meaningful project that gets near one of these subjects.
+I also love companies with noble goals, with impactful missions and great leaders. After all, companies are created to solve problems, should it be a demand problem, or a more complex one like colonizing space or saving the earth.</description>
     </item>
     
   </channel>
