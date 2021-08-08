@@ -58,9 +58,9 @@ For now, they are only sent on the notifications page, but later versions may se
 
 # Functional upgrade 
 
-This part discusses not a visual upgradde, nor a componenet addition, bu rather a functionality upgrade. 
+This part discusses not a visual upgrade, nor a component addition, bu rather a functionality upgrade. 
 
-In the first version of the application, its state was not saved upon quitting, which caused the timers of the tasks, the machines' running status as well as the notifications, to be reset when the user comes back, succesfully losing all his past usage of the application and progress. 
+In the first version of the application, its state was not saved upon quitting, which caused the timers of the tasks, the machines' running status as well as the notifications, to be reset when the user comes back, successfully losing all his past usage of the application and progress. 
 
 In this version, I made use of the local storage to save the state of each component upon quitting, which would be loaded again when the users comes back. 
 Typically, if you have notifications upon quitting, you will still have them upon coming back, but you may also have new ones if you've left a machine running, and the task was done running while you were away. 
