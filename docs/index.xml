@@ -6,7 +6,18 @@
     <description>Recent content on Hadi El Hajj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Jun 2021 23:21:40 +0200</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Aug 2021 13:55:01 +0200</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homie - 2</title>
+      <link>https://hadi-el-hajj.github.io/blog/posts/homie_2/</link>
+      <pubDate>Sun, 08 Aug 2021 13:55:01 +0200</pubDate>
+      
+      <guid>https://hadi-el-hajj.github.io/blog/posts/homie_2/</guid>
+      <description>Introduction This is the second part of my blog series on Homie, an application I am building. For the first part, go to part one !
+In this post, I intend to give you a glimpse of the progress I was able to make on the application, style-wise, but also feature-wise.
+Alike the first part, I will go through the different parts of the application, and display them one by one while explaining what upgrades were made to them.</description>
+    </item>
+    
     <item>
       <title>Learning RxJS</title>
       <link>https://hadi-el-hajj.github.io/blog/posts/learning_rxjs/</link>

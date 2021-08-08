@@ -68,4 +68,9 @@ Click on this [link !](https://github.com/hadi-el-hajj/homie)
 
 To test, you can click [here](https://hadi-el-hajj.github.io/homie/)
 
+# News 
+
+[Part two](/blog/posts/homie_2) is here, check it out !
+
+
 
