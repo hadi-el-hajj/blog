@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Hadi El Hajj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Aug 2021 13:55:01 +0200</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Aug 2021 22:04:36 +0200</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coup</title>
+      <link>https://hadi-el-hajj.github.io/blog/posts/coup/</link>
+      <pubDate>Sun, 08 Aug 2021 22:04:36 +0200</pubDate>
+      
+      <guid>https://hadi-el-hajj.github.io/blog/posts/coup/</guid>
+      <description>Introduction Coup is a card game I have been wanting to try and code for a long time now. I was introduced to it by one of my closest friends and it has been ever since one of the greatest card games/game I have ever played.
+The game revolves around four champions, mainly the Ace, the King, the Queen and the Jack, while all other cards are coins.
+I won&amp;rsquo;t go over all the rules right now, as this post intends to summarize the thoughts that led to my choices of the used technologies and programming languages and frameworks.</description>
+    </item>
+    
     <item>
       <title>Homie - 2</title>
       <link>https://hadi-el-hajj.github.io/blog/posts/homie_2/</link>
